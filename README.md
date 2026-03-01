@@ -14,9 +14,9 @@
 <table width="100%">
 <thead>
 <tr>
-<th align="left" width="30%">소속 및 단체</th>
-<th align="left" width="20%">기간</th>
-<th align="left" width="50%">내용</th>
+<th align="left" width="30%">Organization</th>
+<th align="left" width="20%">Period</th>
+<th align="left" width="50%">Description</th>
 </tr>
 </thead>
 <tbody>
@@ -68,9 +68,9 @@
 <table width="100%">
 <thead>
 <tr>
-<th align="left" width="30%">프로젝트</th>
-<th align="left" width="20%">기간</th>
-<th align="left" width="50%">내용</th>
+<th align="left" width="30%">Project</th>
+<th align="left" width="20%">Period</th>
+<th align="left" width="50%">Description</th>
 </tr>
 </thead>
 <tbody>
@@ -112,9 +112,9 @@
 <table width="100%">
 <thead>
 <tr>
-<th align="left" width="60%">제목</th>
-<th align="left" width="20%">기간</th>
-<th align="left" width="20%">학회</th>
+<th align="left" width="60%">Title</th>
+<th align="left" width="20%">Period</th>
+<th align="left" width="20%">Conference</th>
 </tr>
 </thead>
 <tbody>
@@ -145,8 +145,8 @@
 <table width="100%">
 <thead>
 <tr>
-<th align="left" width="40%">언어</th>
-<th align="left" width="60%">유창도</th>
+<th align="left" width="40%">Language</th>
+<th align="left" width="60%">Proficiency</th>
 </tr>
 </thead>
 <tbody>
