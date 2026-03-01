@@ -93,6 +93,11 @@
 <td>보안네트워크프로그래밍 — 안전한 실시간 멀티쓰레딩 프로그램 개발 팀 프로젝트</td>
 </tr>
 <tr>
+<td>디지털포렌식개론 - 파일 시스템 파싱 프로그램 개발</td>
+<td>2025.5</td>
+<td>디지털포렌식개론 Project</td>
+</tr>
+<tr>
 <td>CNG를 이용한 Ransomware 구현</td>
 <td>2025.1</td>
 <td>FaS 랜섬웨어 개발 팀 프로젝트</td>
@@ -101,27 +106,6 @@
 <td>Padding Oracle Attack 구현</td>
 <td>2024.11</td>
 <td>보안프로토콜 Project</td>
-</tr>
-</tbody>
-</table>
-
----
-
-## 📄 Papers
-
-<table width="100%">
-<thead>
-<tr>
-<th align="left" width="60%">Title</th>
-<th align="left" width="20%">Period</th>
-<th align="left" width="20%">Conference</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>5G 네트워크 슬라이싱별 성능지표와 보안 요구사항의 상관관계 분석</td>
-<td>2025.11</td>
-<td>CISC-W</td>
 </tr>
 </tbody>
 </table>
