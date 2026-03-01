@@ -1,23 +1,16 @@
 <div align="center">
 
-<!-- Custom Geometric Blue Banner -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0F1F,50:0F172A,100:1E3A8A&height=200&section=header&text=Jeong%20Yu%20Jin&fontSize=45&fontColor=60A5FA&animation=fadeIn&stroke=60A5FA&strokeWidth=1" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0F1F,100:1E3A8A&height=180&section=header&text=Alice%20Jeong&fontSize=45&fontColor=60A5FA&animation=fadeIn" />
 
-### **Alice Jeong**
+### Jeong Yu Jin
 
 <em>"carpe diem — seize the day"</em>
-
-<br/>
-
-<img src="https://img.shields.io/badge/AI%20Research-1E40AF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cryptography-1D4ED8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/System%20Builder-2563EB?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# ━━ 🏛 Organization ━━
+## ━━ 🏛 Organization ━━
 
 <table>
 <thead>
@@ -52,7 +45,7 @@
 <tr><td colspan="3"><br/></td></tr>
 
 <tr>
-<td>국민대학교 소프트웨어학부 재학</td>
+<td>국민대학교 소프트웨어학부</td>
 <td>2026 ~</td>
 <td>재학</td>
 </tr>
@@ -71,7 +64,7 @@
 
 ---
 
-# ━━ 🚀 Projects ━━
+## ━━ 🚀 Projects ━━
 
 <table>
 <thead>
@@ -115,7 +108,7 @@
 
 ---
 
-# ━━ 📄 Papers ━━
+## ━━ 📄 Papers ━━
 
 <table>
 <thead>
@@ -136,7 +129,7 @@
 
 ---
 
-# ━━ 💻 Programming Languages ━━
+## ━━ 💻 Programming Languages ━━
 
 <div align="center">
 
@@ -148,7 +141,7 @@
 
 ---
 
-# ━━ 🌎 Languages ━━
+## ━━ 🌎 Languages ━━
 
 | 언어 | 유창도 |
 |------|--------|
