@@ -1,14 +1,9 @@
-<!-- ================================
-      GitHub Profile - Blue Theme
-================================ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Alice%20Jeong&fontAlign=50&fontAlignY=40&color=0:0B1F3A,50:0A3D91,100:00D4FF&fontColor=E6F6FF&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0F1F,100:1E3A8A&height=160&section=header&text=Alice%20Jeong&fontSize=42&fontColor=60A5FA&animation=fadeIn" />
 
-### Jeong Yu Jin
-
-> *carpe diem — seize the day*
+### Jeong Yu Jin  
+<em>"carpe diem — seize the day"</em>
 
 </div>
 
@@ -16,64 +11,156 @@
 
 ## 🏛 Organization
 
-| Organization | Period | Description |
-|--------------|--------|------------|
-| MI Lab | 2026.01 ~ | Undergraduate Researcher, School of Software |
-| ICSR | 2025.06 ~ 2025.11 | Undergraduate Researcher, Intelligent Cyber Security Lab |
-| DAlpha | 2024.09 ~ | Security Academic Club, School of Software |
-| FaS | 2024.06 ~ 2025.05 | Digital Forensics Academic Club |
-|  |  |  |
-| Kookmin University – School of Software | 2026 ~ | Enrolled |
-| Kookmin University – Dept. of Information Security, Cryptography & Mathematics | 2023.03 ~ 2025.12 | Transferred to School of Software (Minor) |
-| QSI International School of Shenzhen | 2017 ~ 2022 | Graduated |
+<table width="100%">
+<thead>
+<tr>
+<th align="left" width="30%">소속 및 단체</th>
+<th align="left" width="20%">기간</th>
+<th align="left" width="50%">내용</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><b>MI Lab</b></td>
+<td>2026.1 ~</td>
+<td>소프트웨어학부 연구실 학부연구생</td>
+</tr>
+<tr>
+<td><b>ICSR</b></td>
+<td>2025.6 ~ 2025.11</td>
+<td>정보보안암호수학과 지능형사이버보안 연구실 학부연구생</td>
+</tr>
+<tr>
+<td><b>DAlpha</b></td>
+<td>2024.9 ~</td>
+<td>소프트웨어학부 보안 학술 동아리</td>
+</tr>
+<tr>
+<td><b>FaS</b></td>
+<td>2024.6 ~ 2025.5</td>
+<td>정보보안암호수학과 디지털포렌식 학술 동아리</td>
+</tr>
+
+<tr><td colspan="3"><br/></td></tr>
+
+<tr>
+<td>국민대학교 소프트웨어학부</td>
+<td>2026 ~</td>
+<td>재학</td>
+</tr>
+<tr>
+<td>국민대학교 정보보안암호수학과</td>
+<td>2023.3 ~ 2025.12</td>
+<td>소프트웨어학부로 전과 (부전공)</td>
+</tr>
+<tr>
+<td>QSI International School in Shenzhen</td>
+<td>2017 ~ 2022</td>
+<td>졸업</td>
+</tr>
+</tbody>
+</table>
 
 ---
 
-## 🚀 Project
+## 🚀 Projects
 
-| Project | Period | Description |
-|---------|--------|------------|
-| Vibe Coding Code2Figure | 2026.02 | MI Lab Winter Team Project |
-| LLaMA LoRA Fine-tuning | 2026.01 | MI Lab Winter Team Project |
-|  |  |  |
-| Let's Quiz | 2025.11 | Secure Real-time Multi-threaded Program (Security Network Programming Team Project) |
-| Ransomware Implementation using CNG | 2025.01 | FaS Ransomware Development Team Project |
-| Padding Oracle Attack Implementation | 2024.11 | Security Protocol Project |
+<table width="100%">
+<thead>
+<tr>
+<th align="left" width="30%">프로젝트</th>
+<th align="left" width="20%">기간</th>
+<th align="left" width="50%">내용</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><b>Vibe Coding Code2Figure</b></td>
+<td>2026.2</td>
+<td>MI Lab Winter Team Project</td>
+</tr>
+<tr>
+<td><b>LLama LoRA Fine-tuning</b></td>
+<td>2026.1</td>
+<td>MI Lab Winter Team Project</td>
+</tr>
+
+<tr><td colspan="3"><br/></td></tr>
+
+<tr>
+<td>Let's Quiz</td>
+<td>2025.11</td>
+<td>보안네트워크프로그래밍 — 안전한 실시간 멀티쓰레딩 프로그램 개발 팀 프로젝트</td>
+</tr>
+<tr>
+<td>CNG를 이용한 Ransomware 구현</td>
+<td>2025.1</td>
+<td>FaS 랜섬웨어 개발 팀 프로젝트</td>
+</tr>
+<tr>
+<td>Padding Oracle Attack 구현</td>
+<td>2024.11</td>
+<td>보안프로토콜 Project</td>
+</tr>
+</tbody>
+</table>
 
 ---
 
 ## 📄 Papers
 
-| Title | Period | Conference |
-|-------|--------|------------|
-| Correlation Analysis between 5G Network Slicing Performance Metrics and Security Requirements | 2025.11 | CISC-W |
+<table width="100%">
+<thead>
+<tr>
+<th align="left" width="60%">제목</th>
+<th align="left" width="20%">기간</th>
+<th align="left" width="20%">학회</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>5G 네트워크 슬라이싱별 성능지표와 보안 요구사항의 상관관계 분석</td>
+<td>2025.11</td>
+<td>CISC-W</td>
+</tr>
+</tbody>
+</table>
 
 ---
 
 ## 💻 Programming Languages
 
-<p align="left">
-  <img src="https://img.shields.io/badge/C-0A3D91?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-0047AB?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
----
-
-## 🌍 Languages
-
-| Language | Proficiency |
-|----------|------------|
-| Korean | Native |
-| English | Professional Working Proficiency |
-| Chinese | Conversational |
-
----
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1F3A,100:00D4FF&height=2"/>
-
-⭐ Always building, always exploring.
+<img src="https://img.shields.io/badge/C-1E3A8A?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-2563EB?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-1D4ED8?style=for-the-badge&logo=python&logoColor=white"/>
 
 </div>
+
+---
+
+## 🌎 Languages
+
+<table width="100%">
+<thead>
+<tr>
+<th align="left" width="40%">언어</th>
+<th align="left" width="60%">유창도</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Korean</td>
+<td>Native</td>
+</tr>
+<tr>
+<td>English</td>
+<td>Professional Working Proficiency</td>
+</tr>
+<tr>
+<td>Chinese</td>
+<td>Conversational</td>
+</tr>
+</tbody>
+</table>
