@@ -1,23 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0F1F,100:1E3A8A&height=180&section=header&text=Alice%20Jeong&fontSize=45&fontColor=60A5FA&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0F1F,100:1E3A8A&height=160&section=header&text=Alice%20Jeong&fontSize=42&fontColor=60A5FA&animation=fadeIn" />
 
-### Jeong Yu Jin
-
+### Jeong Yu Jin  
 <em>"carpe diem — seize the day"</em>
 
 </div>
 
 ---
 
-## ━━ 🏛 Organization ━━
+## 🏛 Organization
 
-<table>
+<table width="100%">
 <thead>
 <tr>
-<th align="left">소속 및 단체</th>
-<th align="left">기간</th>
-<th align="left">내용</th>
+<th align="left" width="30%">소속 및 단체</th>
+<th align="left" width="20%">기간</th>
+<th align="left" width="50%">내용</th>
 </tr>
 </thead>
 <tbody>
@@ -64,14 +63,14 @@
 
 ---
 
-## ━━ 🚀 Projects ━━
+## 🚀 Projects
 
-<table>
+<table width="100%">
 <thead>
 <tr>
-<th align="left">프로젝트</th>
-<th align="left">기간</th>
-<th align="left">내용</th>
+<th align="left" width="30%">프로젝트</th>
+<th align="left" width="20%">기간</th>
+<th align="left" width="50%">내용</th>
 </tr>
 </thead>
 <tbody>
@@ -108,14 +107,14 @@
 
 ---
 
-## ━━ 📄 Papers ━━
+## 📄 Papers
 
-<table>
+<table width="100%">
 <thead>
 <tr>
-<th align="left">제목</th>
-<th align="left">기간</th>
-<th align="left">학회</th>
+<th align="left" width="60%">제목</th>
+<th align="left" width="20%">기간</th>
+<th align="left" width="20%">학회</th>
 </tr>
 </thead>
 <tbody>
@@ -129,7 +128,7 @@
 
 ---
 
-## ━━ 💻 Programming Languages ━━
+## 💻 Programming Languages
 
 <div align="center">
 
@@ -141,18 +140,27 @@
 
 ---
 
-## ━━ 🌎 Languages ━━
+## 🌎 Languages
 
-| 언어 | 유창도 |
-|------|--------|
-| Korean | Native |
-| English | Professional Working Proficiency |
-| Chinese | Conversational |
-
----
-
-<div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&hide_border=true&bg_color=0A0F1F&title_color=60A5FA&text_color=CBD5E1&icon_color=3B82F6" />
-
-</div>
+<table width="100%">
+<thead>
+<tr>
+<th align="left" width="40%">언어</th>
+<th align="left" width="60%">유창도</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Korean</td>
+<td>Native</td>
+</tr>
+<tr>
+<td>English</td>
+<td>Professional Working Proficiency</td>
+</tr>
+<tr>
+<td>Chinese</td>
+<td>Conversational</td>
+</tr>
+</tbody>
+</table>
