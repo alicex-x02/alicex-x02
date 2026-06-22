@@ -149,7 +149,7 @@
 <td>3D scene reconstruction project using NeRF Studio</td>
 </tr>
 <tr>
-<td><b>Vibe Coding Code2Figure</b></td>
+<td><b><a href="https://github.com/alicex-x02/2026-MI-LAB-winter-vibe-coding-project-code2figure">Vibe Coding Code2Figure</b></td>
 <td>2026.02</td>
 <td>MI Lab winter team project on code-to-figure generation</td>
 </tr>
@@ -162,12 +162,12 @@
 <tr><td colspan="3"><br/></td></tr>
 
 <tr>
-<td>Let's Quiz</td>
+<td><a href="https://github.com/alicex-x02/2025-Secure-Network-Programming-Let-s-Quiz">Let's Quiz</td>
 <td>2025.11</td>
 <td>Team project on a secure real-time multithreaded quiz program</td>
 </tr>
 <tr>
-<td>File System Parsing Program</td>
+<td><a href="https://github.com/alicex-x02/2026-MI-LAB-winter-vibe-coding-project-code2figure">File System Parsing Program</td>
 <td>2025.05</td>
 <td>Digital forensics project on file system parsing</td>
 </tr>
@@ -177,7 +177,7 @@
 <td>FaS team project on ransomware implementation for security research</td>
 </tr>
 <tr>
-<td>Padding Oracle Attack Implementation</td>
+<td><a href="https://github.com/alicex-x02/2026-MI-LAB-winter-vibe-coding-project-code2figure">Padding Oracle Attack Implementation</td>
 <td>2024.11</td>
 <td>Security protocol project on implementing a padding oracle attack</td>
 </tr>
