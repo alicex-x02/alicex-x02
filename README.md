@@ -2,8 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0F1F,100:1E3A8A&height=160&section=header&text=Alice%20Jeong&fontSize=42&fontColor=60A5FA&animation=fadeIn" />
 
-### Jeong Yu Jin  
+### Jeong Yu Jin
+
 <em>"carpe diem — seize the day"</em>
+
+<p align="center">
+  Undergraduate student interested in Computer Vision, Multimodal AI, 3D Vision, and Spatial AI.
+</p>
 
 </div>
 
@@ -21,47 +26,47 @@
 </thead>
 <tbody>
 <tr>
-<td><b>LG Aimers 9기</b></td>
-<td>2026.06~</td>
-<td>LG Aimers 9기</td>
+<td><b>LG Aimers 9th</b></td>
+<td>2026.06 ~ Present</td>
+<td>AI education program and hackathon participant</td>
 </tr>
 <tr>
 <td><b>MI Lab</b></td>
 <td>2026.01 ~ 2026.06</td>
-<td>소프트웨어학부 연구실 학부연구생</td>
+<td>Undergraduate Research Assistant</td>
 </tr>
 <tr>
 <td><b>ICSR</b></td>
 <td>2025.06 ~ 2025.11</td>
-<td>정보보안암호수학과 지능형사이버보안 연구실 학부연구생</td>
+<td>Undergraduate Research Assistant, Intelligent Cyber Security Research Lab</td>
 </tr>
 <tr>
 <td><b>DAlpha</b></td>
 <td>2024.09 ~ 2026.03</td>
-<td>소프트웨어학부 보안 학술 동아리</td>
+<td>Academic club in software security</td>
 </tr>
 <tr>
 <td><b>FaS</b></td>
 <td>2024.06 ~ 2025.05</td>
-<td>정보보안암호수학과 디지털포렌식 학술 동아리</td>
+<td>Academic club in digital forensics</td>
 </tr>
 
 <tr><td colspan="3"><br/></td></tr>
 
 <tr>
-<td>국민대학교 소프트웨어학부</td>
-<td>2026 ~</td>
-<td>재학</td>
+<td>Kookmin University, School of Computer Science</td>
+<td>2026 ~ Present</td>
+<td>Undergraduate student</td>
 </tr>
 <tr>
-<td>국민대학교 정보보안암호수학과</td>
+<td>Kookmin University, Department of Information Security & Cryptomathematics</td>
 <td>2023.03 ~ 2025.12</td>
-<td>소프트웨어학부로 전과 (부전공)</td>
+<td>Transferred to the School of Computer Science; Minor in Information Security & Cryptomathematics</td>
 </tr>
 <tr>
 <td>QSI International School in Shenzhen</td>
 <td>2017 ~ 2022</td>
-<td>졸업</td>
+<td>Graduated</td>
 </tr>
 </tbody>
 </table>
@@ -101,12 +106,12 @@
 </thead>
 <tbody>
 <tr>
-<td><b>IEIE</b></td>
+<td><b>IEIE 2026</b></td>
 <td>2026</td>
 <td>시점 변화에 강건한 시각-언어 내비게이션 모듈과 마중 도구 호출 에이전트 기반 파이프라인</td>
 </tr>
 <tr>
-<td><b>CISC-W</b></td>
+<td><b>CISC-W'25</b></td>
 <td>2025</td>
 <td>5G 네트워크 슬라이싱별 성능지표와 보안 요구사항의 상관관계 분석</td>
 </tr>
@@ -129,22 +134,22 @@
 <tr>
 <td><b>Capstone Design</b></td>
 <td>2026 Spring</td>
-<td>Vision-Language Navigation 기반 사족 로봇 통합 자율 네비게이션 시스템 팀 프로젝트</td>
+<td>Team project on an integrated autonomous navigation system for quadruped robots based on Vision-Language Navigation</td>
 </tr>
 <tr>
 <td><b>NeRF Studio</b></td>
 <td>2026.03</td>
-<td>NeRF Studio를 활용한 영상 기반 3D 장면 복원 프로젝트</td>
+<td>3D scene reconstruction project using NeRF Studio</td>
 </tr>
 <tr>
 <td><b>Vibe Coding Code2Figure</b></td>
 <td>2026.02</td>
-<td>MI Lab Winter Team Project</td>
+<td>MI Lab winter team project on code-to-figure generation</td>
 </tr>
 <tr>
-<td><b>LLama LoRA Fine-tuning</b></td>
+<td><b>LLaMA LoRA Fine-tuning</b></td>
 <td>2026.01</td>
-<td>MI Lab Winter Team Project</td>
+<td>MI Lab winter team project on LLaMA LoRA fine-tuning</td>
 </tr>
 
 <tr><td colspan="3"><br/></td></tr>
@@ -152,26 +157,25 @@
 <tr>
 <td>Let's Quiz</td>
 <td>2025.11</td>
-<td>보안네트워크프로그래밍 안전한 실시간 멀티쓰레딩 프로그램 개발 팀 프로젝트</td>
+<td>Team project on a secure real-time multithreaded quiz program</td>
 </tr>
 <tr>
-<td>파일 시스템 파싱 프로그램 개발</td>
+<td>File System Parsing Program</td>
 <td>2025.05</td>
-<td>디지털포렌식개론 프로젝트</td>
+<td>Digital forensics project on file system parsing</td>
 </tr>
 <tr>
-<td>CNG를 이용한 Ransomware 구현</td>
+<td>Ransomware Implementation using CNG</td>
 <td>2025.01</td>
-<td>FaS 랜섬웨어 개발 팀 프로젝트</td>
+<td>FaS team project on ransomware implementation for security research</td>
 </tr>
 <tr>
-<td>Padding Oracle Attack 구현</td>
+<td>Padding Oracle Attack Implementation</td>
 <td>2024.11</td>
-<td>보안프로토콜 프로젝트</td>
+<td>Security protocol project on implementing a padding oracle attack</td>
 </tr>
 </tbody>
 </table>
-
 
 ---
 
@@ -181,7 +185,7 @@
 
 <img src="https://img.shields.io/badge/C-1E3A8A?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-2563EB?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-1D4ED8?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge Python-1D4ED8?style=for-the-badge&logo=python&logoColor=white"/>
 
 </div>
 
@@ -211,3 +215,4 @@
 </tr>
 </tbody>
 </table>
+
