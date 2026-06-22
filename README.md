@@ -73,6 +73,37 @@
 
 ---
 
+## 📄 Publications
+
+<table width="100%">
+<thead>
+<tr>
+<th align="left" width="25%">Venue</th>
+<th align="left" width="55%">Title</th>
+<th align="left" width="20%">Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><b>CVPR Workshop (AUTOPILOT)</b></td>
+<td>Selective Optical-Flow Correction for Zero-Shot CCTV Accident Analysis with Vision Language Models</td>
+<td>International Conference</td>
+</tr>
+<tr>
+<td><b>IEIE 2026</b></td>
+<td>시점 변화에 강건한 시각-언어 내비게이션 모듈과 마중 도구 호출 에이전트 기반 파이프라인</td>
+<td>Domestic Conference</td>
+</tr>
+<tr>
+<td><b>CISC-W'25</b></td>
+<td>5G 네트워크 슬라이싱별 성능지표와 보안 요구사항의 상관관계 분석</td>
+<td>Domestic Conference</td>
+</tr>
+</tbody>
+</table>
+
+---
+
 ## 🚀 Projects
 
 <table width="100%">
