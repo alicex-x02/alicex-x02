@@ -21,6 +21,11 @@
 </thead>
 <tbody>
 <tr>
+<td><b>LG Aimers 9기</b></td>
+<td>2026.6~</td>
+<td></td>
+</tr>
+<tr>
 <td><b>MI Lab</b></td>
 <td>2026.1 ~ 2026.6</td>
 <td>소프트웨어학부 연구실 학부연구생</td>
