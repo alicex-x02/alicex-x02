@@ -13,9 +13,10 @@
 </div>
 
 ---
+
 ## 🧑‍🔬 Experience
 
-<table width="100%">
+<table width="100%" style="width:100%; table-layout:fixed;">
 <thead>
 <tr>
 <th align="left" width="30%">Organization</th>
@@ -56,7 +57,7 @@
 
 ## 🎓 Education
 
-<table width="100%">
+<table width="100%" style="width:100%; table-layout:fixed;">
 <thead>
 <tr>
 <th align="left" width="30%">School</th>
@@ -83,12 +84,13 @@
 </tbody>
 </table>
 
+---
 
 ## 📄 Publications
 
 ### International Conference
 
-<table width="100%">
+<table width="100%" style="width:100%; table-layout:fixed;">
 <thead>
 <tr>
 <th align="left" width="35%">Venue</th>
@@ -105,7 +107,7 @@
 
 ### Domestic Conference
 
-<table width="100%">
+<table width="100%" style="width:100%; table-layout:fixed;">
 <thead>
 <tr>
 <th align="left" width="35%">Venue</th>
@@ -124,12 +126,11 @@
 </tbody>
 </table>
 
-
 ---
 
 ## 🚀 Projects
 
-<table width="100%">
+<table width="100%" style="width:100%; table-layout:fixed;">
 <thead>
 <tr>
 <th align="left" width="30%">Project</th>
@@ -139,7 +140,7 @@
 </thead>
 <tbody>
 <tr>
-<td><b><a href="https://kookmin-sw.github.io/2026-capstone-41/">Capstone Design</b></td>
+<td><b><a href="https://kookmin-sw.github.io/2026-capstone-41/">Capstone Design</a></b></td>
 <td>2026 Spring</td>
 <td>Team project on an integrated autonomous navigation system for quadruped robots based on Vision-Language Navigation</td>
 </tr>
@@ -149,7 +150,7 @@
 <td>3D scene reconstruction project using NeRF Studio</td>
 </tr>
 <tr>
-<td><b><a href="https://github.com/alicex-x02/2026-MI-LAB-winter-vibe-coding-project-code2figure">Vibe Coding Code2Figure</b></td>
+<td><b><a href="https://github.com/alicex-x02/2026-MI-LAB-winter-vibe-coding-project-code2figure">Vibe Coding Code2Figure</a></b></td>
 <td>2026.02</td>
 <td>MI Lab winter team project on code-to-figure generation</td>
 </tr>
@@ -162,12 +163,12 @@
 <tr><td colspan="3"><br/></td></tr>
 
 <tr>
-<td><a href="https://github.com/alicex-x02/2025-Secure-Network-Programming-Let-s-Quiz">Let's Quiz</td>
+<td><a href="https://github.com/alicex-x02/2025-Secure-Network-Programming-Let-s-Quiz">Let's Quiz</a></td>
 <td>2025.11</td>
 <td>Team project on a secure real-time multithreaded quiz program</td>
 </tr>
 <tr>
-<td><a href="https://github.com/alicex-x02/Information-Security-Cryptography-and-Mathematics/tree/main/2025%20Digital%20Forensic">File System Parsing Program</td>
+<td><a href="https://github.com/alicex-x02/Information-Security-Cryptography-and-Mathematics/tree/main/2025%20Digital%20Forensic">File System Parsing Program</a></td>
 <td>2025.05</td>
 <td>Digital forensics project on file system parsing</td>
 </tr>
@@ -177,7 +178,7 @@
 <td>FaS team project on ransomware implementation for security research</td>
 </tr>
 <tr>
-<td><a href="https://github.com/alicex-x02/Information-Security-Cryptography-and-Mathematics/tree/main/2024%20Security%20Protocol">Padding Oracle Attack Implementation</td>
+<td><a href="https://github.com/alicex-x02/Information-Security-Cryptography-and-Mathematics/tree/main/2024%20Security%20Protocol">Padding Oracle Attack Implementation</a></td>
 <td>2024.11</td>
 <td>Security protocol project on implementing a padding oracle attack</td>
 </tr>
@@ -196,12 +197,11 @@
 
 </div>
 
-
 ---
 
 ## 🌎 Languages
 
-<table width="100%">
+<table width="100%" style="width:100%; table-layout:fixed;">
 <thead>
 <tr>
 <th align="left" width="40%">Language</th>
