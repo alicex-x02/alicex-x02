@@ -192,9 +192,10 @@
 
 <img src="https://img.shields.io/badge/C-1E3A8A?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-2563EB?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge Python-1D4ED8?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-1D4ED8?style=for-the-badge&logo=python&logoColor=white"/>
 
 </div>
+
 
 ---
 
