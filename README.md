@@ -13,8 +13,7 @@
 </div>
 
 ---
-
-## 🏛 Organization
+## 🧑‍🔬 Experience
 
 <table width="100%">
 <thead>
@@ -43,35 +42,47 @@
 <tr>
 <td><b>DAlpha</b></td>
 <td>2024.09 ~ 2026.03</td>
-<td>Academic club in software security</td>
+<td>Member, academic club in software security</td>
 </tr>
 <tr>
 <td><b>FaS</b></td>
 <td>2024.06 ~ 2025.05</td>
-<td>Academic club in digital forensics</td>
+<td>Member, academic club in digital forensics</td>
 </tr>
+</tbody>
+</table>
 
-<tr><td colspan="3"><br/></td></tr>
+---
 
+## 🎓 Education
+
+<table width="100%">
+<thead>
 <tr>
-<td>Kookmin University, School of Computer Science</td>
+<th align="left" width="30%">School</th>
+<th align="left" width="20%">Period</th>
+<th align="left" width="50%">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><b>Kookmin University, School of Computer Science</b></td>
 <td>2026 ~ Present</td>
 <td>Undergraduate student</td>
 </tr>
 <tr>
-<td>Kookmin University, Department of Information Security, Cryptography and Mathematics</td>
+<td><b>Kookmin University, Department of Information Security, Cryptography and Mathematics</b></td>
 <td>2023.03 ~ 2025.12</td>
 <td>Transferred to the School of Computer Science; Minor in Information Security, Cryptography and Mathematics</td>
 </tr>
 <tr>
-<td>QSI International School in Shenzhen</td>
+<td><b>QSI International School in Shenzhen</b></td>
 <td>2017 ~ 2022</td>
 <td>Graduated</td>
 </tr>
 </tbody>
 </table>
 
----
 
 ## 📄 Publications
 
