@@ -145,7 +145,7 @@
 <td>Team project on an integrated autonomous navigation system for quadruped robots based on Vision-Language Navigation</td>
 </tr>
 <tr>
-<td><b>NeRF Studio</b></td>
+<td><b><a href="https://github.com/alicex-x02/Nerfstudio_DokiDoki_Minseok">NeRF Studio</b></td>
 <td>2026.03</td>
 <td>3D scene reconstruction project using NeRF Studio</td>
 </tr>
