@@ -23,7 +23,7 @@
 <tr>
 <td><b>LG Aimers 9기</b></td>
 <td>2026.6~</td>
-<td></td>
+<td>LG Aimers 9기</td>
 </tr>
 <tr>
 <td><b>MI Lab</b></td>
