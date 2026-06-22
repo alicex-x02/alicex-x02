@@ -139,7 +139,7 @@
 </thead>
 <tbody>
 <tr>
-<td><b><a href="https://github.com/kookmin-sw/2026-capstone-41">Capstone Design</b></td>
+<td><b><a href="https://kookmin-sw.github.io/2026-capstone-41/">Capstone Design</b></td>
 <td>2026 Spring</td>
 <td>Team project on an integrated autonomous navigation system for quadruped robots based on Vision-Language Navigation</td>
 </tr>
