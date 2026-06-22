@@ -132,6 +132,19 @@
 </thead>
 <tbody>
 <tr>
+<td><b>Capstone Design</b></td>
+<td>2026.1</td>
+<td>Vision-Language Navigation 기반 사족 로봇 통합 자율 네비게이션 시스템 팀 프로젝트</td>
+</tr>
+<tr>
+<td><b>NeRF Studio</b></td>
+<td>2026.3</td>
+<td>NeRF Studio를 활용한 영상 기반 3D 장면 복원 프로젝트</td>
+</tr>
+
+<tr><td colspan="3"><br/></td></tr>
+
+<tr>
 <td><b>Vibe Coding Code2Figure</b></td>
 <td>2026.2</td>
 <td>MI Lab Winter Team Project</td>
@@ -166,6 +179,7 @@
 </tr>
 </tbody>
 </table>
+
 
 ---
 
