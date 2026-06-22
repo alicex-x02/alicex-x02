@@ -146,7 +146,7 @@
 </tr>
 <tr>
 <td><b><a href="https://github.com/alicex-x02/Accident-CVPR_final">ACCIDENT @ CVPR</a></b></td>
-<td>2026</td>
+<td>2026 Spring </td>
 <td>CVPR Workshop project on zero-shot CCTV accident analysis using Vision Language Models and optical-flow-based correction · <a href="https://www.kaggle.com/competitions/accident/overview">Competition</a></td>
 </tr>
 <tr>
