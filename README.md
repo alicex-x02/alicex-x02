@@ -133,7 +133,7 @@
 <tbody>
 <tr>
 <td><b>Capstone Design</b></td>
-<td>2026.1</td>
+<td>2026 Spring</td>
 <td>Vision-Language Navigation 기반 사족 로봇 통합 자율 네비게이션 시스템 팀 프로젝트</td>
 </tr>
 <tr>
@@ -146,12 +146,12 @@
 
 <tr>
 <td><b>Vibe Coding Code2Figure</b></td>
-<td>2026.2</td>
+<td>2026.02</td>
 <td>MI Lab Winter Team Project</td>
 </tr>
 <tr>
 <td><b>LLama LoRA Fine-tuning</b></td>
-<td>2026.1</td>
+<td>2026.01</td>
 <td>MI Lab Winter Team Project</td>
 </tr>
 
@@ -164,12 +164,12 @@
 </tr>
 <tr>
 <td>파일 시스템 파싱 프로그램 개발</td>
-<td>2025.5</td>
+<td>2025.05</td>
 <td>디지털포렌식개론 프로젝트</td>
 </tr>
 <tr>
 <td>CNG를 이용한 Ransomware 구현</td>
-<td>2025.1</td>
+<td>2025.01</td>
 <td>FaS 랜섬웨어 개발 팀 프로젝트</td>
 </tr>
 <tr>
