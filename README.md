@@ -138,12 +138,9 @@
 </tr>
 <tr>
 <td><b>NeRF Studio</b></td>
-<td>2026.3</td>
+<td>2026.03</td>
 <td>NeRF Studio를 활용한 영상 기반 3D 장면 복원 프로젝트</td>
 </tr>
-
-<tr><td colspan="3"><br/></td></tr>
-
 <tr>
 <td><b>Vibe Coding Code2Figure</b></td>
 <td>2026.02</td>
