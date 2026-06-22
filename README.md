@@ -59,9 +59,9 @@
 <td>Undergraduate student</td>
 </tr>
 <tr>
-<td>Kookmin University, Department of Information Security & Cryptomathematics</td>
+<td>Kookmin University, Department of Information Security, Cryptography and Mathematics</td>
 <td>2023.03 ~ 2025.12</td>
-<td>Transferred to the School of Computer Science; Minor in Information Security & Cryptomathematics</td>
+<td>Transferred to the School of Computer Science; Minor in Information Security, Cryptography and Mathematics</td>
 </tr>
 <tr>
 <td>QSI International School in Shenzhen</td>
