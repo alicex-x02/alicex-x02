@@ -66,14 +66,14 @@
 </thead>
 <tbody>
 <tr>
-<td><b>Kookmin University, School of Computer Science</b></td>
+<td><b>Kookmin University, School of Software</b></td>
 <td>2026 ~ Present</td>
 <td>Undergraduate student</td>
 </tr>
 <tr>
 <td><b>Kookmin University, Department of Information Security, Cryptography and Mathematics</b></td>
 <td>2023.03 ~ 2025.12</td>
-<td>Transferred to the School of Computer Science; Minor in Information Security, Cryptography and Mathematics</td>
+<td>Transferred to the School of Software; Minor in Information Security, Cryptography and Mathematics</td>
 </tr>
 <tr>
 <td><b>QSI International School in Shenzhen</b></td>
