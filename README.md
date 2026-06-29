@@ -28,7 +28,7 @@
 <tr>
 <td><b>LG Aimers 9th</b></td>
 <td>2026.06 ~ Present</td>
-<td>AI education program and hackathon participant</td>
+<td>AI education program participant</td>
 </tr>
 <tr>
 <td><b>MI Lab</b></td>
