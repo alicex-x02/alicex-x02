@@ -160,7 +160,7 @@
 <td>MI Lab winter team project on code-to-figure generation</td>
 </tr>
 <tr>
-<td><b>LLaMA LoRA Fine-tuning</b></td>
+<td><b><a href="https://github.com/alicex-x02/LoRA_Finetuning_GSM8K">LLaMA LoRA Fine-tuning</b></td>
 <td>2026.01</td>
 <td>MI Lab winter team project on LLaMA LoRA fine-tuning</td>
 </tr>
