@@ -99,7 +99,7 @@
 </thead>
 <tbody>
 <tr>
-<td><b>CVPR Workshop (AUTOPILOT) 2026</b></td>
+<td><b><a href="https://github.com/Taej-P/CVPR-AUTOPILOT">CVPR Workshop (AUTOPILOT) 2026</b></td>
 <td>Selective Optical-Flow Correction for Zero-Shot CCTV Accident Analysis with Vision Language Models</td>
 </tr>
 </tbody>
