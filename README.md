@@ -4,12 +4,6 @@
 
 ### Jeong Yu Jin
 
-<em>"carpe diem — seize the day"</em>
-
-<p align="center">
-  Undergraduate student interested in Computer Vision, Multimodal AI, 3D Vision, and Spatial AI.
-</p>
-
 </div>
 
 ---
