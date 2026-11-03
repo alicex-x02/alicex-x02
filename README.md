@@ -26,9 +26,9 @@
 </thead>
 <tbody>
 <tr>
-<td><b>LG Aimers 9th</b></td>
-<td>2026.06 ~ Present</td>
-<td>AI education program participant</td>
+<td><b>CM Lab</b></td>
+<td>2026.08 ~ Present</td>
+<td>Undergraduate Research Assistant</td>
 </tr>
 <tr>
 <td><b>MI Lab</b></td>
